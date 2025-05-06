@@ -1,2 +1,4 @@
 Models/my_mnist.data
 Models/.ipynb_checkpoints/fashion_MNIST-checkpoint.ipynb
+*.tgz
+*.csv
